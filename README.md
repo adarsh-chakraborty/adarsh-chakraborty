@@ -16,9 +16,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/adarsh-chakraborty/adarsh-chakraborty/main/Hi.gif" width="30px">, I am Adarsh Chakraborty </h1>
 <h3 align="center"> &#x0003C;&#x0002F;&#x0003E; {Web Developer} </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/adarsh-chakraborty-a9b712206" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/adarshchakraborty/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/me.excelsior" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adarsh-chakraborty-a9b712206" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_adarsh" height="30" width="40" /></a>  
+<a href="https://www.instagram.com/adarshchakraborty/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_adarsh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/me.excelsior" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_adarsh" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/adarshchakraborty/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_adarsh" height="30" width="40" /></a>
+    <a href="https://discord.gg/TG7uxNf" target="blank"><img align="center" src="https://cdn.logojoy.com/wp-content/uploads/20210422104926/Discord-Logo-White.png" alt="discord_adarsh" height="45" width="55" /></a>
  <a href = "mailto: adarshchak108@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
@@ -32,7 +34,8 @@
     with <b>APIs</b> and always looking to collaborate with other front end and android developers. 
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="75" /> <b><i align="center">Thought : "Suicidal.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="75" />
+  <br>
+ <b><i align="center">Thought : "Suicidal.”</i></b> 
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://raw.githubusercontent.com/adarsh-chakraborty/adarsh-chakraborty/main/Developer.gif" />
