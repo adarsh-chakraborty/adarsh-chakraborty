@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adarsh-chakraborty/adarsh-chakraborty/main/banner.png"/>
+  <img src="https://raw.githubusercontent.com/adarsh-chakraborty/adarsh-chakraborty/main/langs/banner.png"/>
 </p>
 <br>
 
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/adarsh-chakraborty/adarsh-chakraborty/main/Hi.gif" width="30px">, I am Adarsh Chakraborty </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/adarsh-chakraborty/adarsh-chakraborty/main/langs/Hi.gif" width="30px">, I am Adarsh Chakraborty </h1>
 <h3 align="center"> &#x0003C;&#x0002F;&#x0003E; {Web Developer} </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/adarsh-chakraborty-a9b712206" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_adarsh" height="30" width="40" /></a>  
@@ -30,7 +30,7 @@
 <p align="center">
   <em>
     Hello, I am Adarsh Chakraborty an <b>undergraduate</b> from <a href="https://www.prsu.ac.in/"> <b>Pt. Ravi Shankar Shukla University</b>, Raipur</a>. <br>
-    <b>a passionate self-learner</b> and a <b>Web Developer</b>&nbsp;<img src="https://raw.githubusercontent.com/adarsh-chakraborty/adarsh-chakraborty/main/Developer.gif" width="40px">&nbsp,<br>who is <b>obsessed</b>
+    <b>a passionate self-learner</b> and a <b>Web Developer</b>&nbsp;<img src="https://raw.githubusercontent.com/adarsh-chakraborty/adarsh-chakraborty/main/langs/Developer.gif" width="40px">&nbsp,<br>who is <b>obsessed</b>
     with <b>APIs</b> and always looking to collaborate with other front end and android developers. 
   </em> 
   <br>
@@ -38,7 +38,7 @@
  <b><i align="center">Thought : "Suicidal.”</i></b> 
 </p>
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://raw.githubusercontent.com/adarsh-chakraborty/adarsh-chakraborty/main/Developer.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://raw.githubusercontent.com/adarsh-chakraborty/adarsh-chakraborty/main/langs/Developer.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
