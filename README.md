@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adarsh-chakraborty/adarsh-chakraborty/main/assets/banner.png"/>
+  <img src="https://i.postimg.cc/fbfT2cDX/20210620-012624-0000.png"/>
 </p>
 <br>
 
