@@ -14,7 +14,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/adarsh-chakraborty/adarsh-chakraborty/main/assets/Hi.gif" width="30px">, I am Adarsh Chakraborty </h1>
-<h3 align="center"> &#x0003C;&#x0002F;&#x0003E; {Web Developer} </h3>
+<h3 align="center"> &#x0003C;&#x0002F;&#x0003E; {Full Stack Web Developer} </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/adarsh-chakraborty-a9b712206" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_adarsh" height="30" width="40" /></a>  
 <a href="https://www.instagram.com/adarshchakraborty/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_adarsh" height="30" width="40" /></a>
