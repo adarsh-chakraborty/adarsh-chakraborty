@@ -1,5 +1,6 @@
-<div style="text-align: center;">
+
   <img src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/1553e28f8be4c62e6abeeaeed6ab7a4626247bd8/assets/20210702_235535_0000.png"/>
+  
 
 <br>
 
