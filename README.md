@@ -60,8 +60,13 @@
     <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
   <hr>
+<p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b>My Badges ....</b>
+
+  <a href="https://api.badgr.io/public/assertions/uvuUshU6Q0GC9wHA7A8ZKQ"><img src="https://api.badgr.io/public/assertions/uvuUshU6Q0GC9wHA7A8ZKQ/image" width="180px" alt="Todo web app" /></a>
+</p>
+  <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="60px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-chakraborty&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adarsh-chakraborty&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
