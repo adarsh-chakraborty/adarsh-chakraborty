@@ -60,11 +60,6 @@
     <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
   <hr>
-<p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b>My Badges ....</b>
- <a href="https://api.badgr.io/public/assertions/ecblxGyeRf6QUqoLRlT6NA"><img src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/tktk.png" width="180px" alt="Tiktok web app" /></a>
-  <a href="https://api.badgr.io/public/assertions/uvuUshU6Q0GC9wHA7A8ZKQ"><img src="https://api.badgr.io/public/assertions/uvuUshU6Q0GC9wHA7A8ZKQ/image" width="180px" alt="Todo web app" /></a>
-</p>
-  <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="60px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
