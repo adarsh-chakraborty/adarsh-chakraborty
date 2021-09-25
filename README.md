@@ -38,7 +38,7 @@
 
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-github-30.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-github-48.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 
