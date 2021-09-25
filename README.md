@@ -11,12 +11,12 @@
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-globe-24.png" />][website]
-[<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-facebook-30.png" />][facebook]
-[<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-youtube-30.png" />][youtube]
-[<img align="left" width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-twitter-30.png" />][twitter]
-[<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-linkedin-30.png" />][linkedin]
-[<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-instagram-24.png" />][instagram]
+[<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-globe-24 (1).png" />][website]
+[<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-facebook-30 (1).png" />][facebook]
+[<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-youtube-30 (1).png" />][youtube]
+[<img align="left" width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-twitter-48 (1).png" />][twitter]
+[<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-linkedin-48.png" />][linkedin]
+[<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-instagram-48.png" />][instagram]
 
 <br />
 
