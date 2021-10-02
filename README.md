@@ -63,7 +63,7 @@
 <img alt="Adarsh Chakraborty's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=adarsh-chakraborty&theme=dark" />
 
 [website]: http://adarsh.gq
-[facebook]: https://www.facebook.com/me.excelsior/
+[facebook]: https://www.facebook.com/adarshwastaken/
 [twitter]: https://twitter.com/adarshchak108
 [youtube]: https://www.youtube.com/channel/UCc4iho_f399pqiDD7N6gU2g
 [instagram]: https://instagram.com/adarshchakraborty
