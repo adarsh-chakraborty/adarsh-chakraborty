@@ -64,7 +64,7 @@
 
 [website]: http://adarsh.gq
 [facebook]: https://www.facebook.com/adarshwastaken/
-[twitter]: https://twitter.com/adarshchak108
+[twitter]: https://twitter.com/adarshgq
 [youtube]: https://www.youtube.com/channel/UCc4iho_f399pqiDD7N6gU2g
 [instagram]: https://instagram.com/adarshchakraborty
 [linkedin]: https://linkedin.com/in/adarsh-chakraborty
