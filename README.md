@@ -5,7 +5,7 @@
 
 ### &#x0003C;&#x0002F;&#x0003E; {Full Stack Web Developer}
 
-- Currently, I am working on a realtime chat application. <br>
+- Currently, I am learning full stack web development. <br>
 - 2021 Goals: Learn React and work on some personal projects. <br>
 - Hobbies: Coding & watching anime i guess. <br>
 
@@ -17,6 +17,7 @@
 [<img align="left" width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-twitter-48 (1).png" />][twitter]
 [<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-linkedin-48.png" />][linkedin]
 [<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-instagram-48.png" />][instagram]
+[<img align="left"  width="25px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/dev1.svg" />][dev]
 [<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-google.svg" />][google]
 
 <br />
@@ -69,3 +70,4 @@
 [instagram]: https://instagram.com/adarshchakraborty
 [linkedin]: https://linkedin.com/in/adarsh-chakraborty
 [google]: https://www.google.com/search?q=Adarsh+Chakraborty&stick=H4sIAAAAAAAAAOOwesRoyi3w8sc9YSmdSWtOXmNU4-IJSC0qzs8LTk0sSs4QEuNic80rySypFOKR4uLiyEoPj_QJM_bhWcQq5JiSWFScoeCckZhdlJiUX1RSCQCCC8p1TwAAAA&sa=X&ved=2ahUKEwjTiLrKgqvzAhXEmeYKHYypAvgQnJoFegQIHRAG
+[dev]: https://dev.to/adarshchakraborty
