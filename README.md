@@ -26,30 +26,29 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<a href="https://www.w3schools.com/html/"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<a href="https://www.w3schools.com/css/"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 
-<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<a href="https://www.javascript.com/"><img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
 
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<a href="https://www.java.com/en/"><img align="left" alt="java" width="26px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-java-48.png" /></a>
 
-<img align="left" alt="java" width="26px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-java-48.png" />
+<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" /></a>
 
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
+<a href="https://github.com/adarsh-chakraborty"><img align="left" alt="GitHub" width="26px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-github-48.png" /></a>
 
-<img align="left" alt="GitHub" width="26px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-github-48.png" />
+<a href="https://ubuntu.com/tutorials/command-line-for-beginners"><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" /></a>
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
-
-<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png">
-<img align="left" alt="Socket IO" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg">
-<img align="left" alt="MongoDB" width="30px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-mongodb.svg">
-<img align="left" alt="Express" width="28px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/expressjs.png">
-<img align="left" alt="React" width="28px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/reactjs.svg">
-<img align="left" alt="NodeJS" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<a href="https://www.linux.org/"><img align="left" alt="Linux" width="26px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/penguin.png"></a>
+<a href="https://nextjs.org/"><img align="left" alt="Next JS" width="30px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/nextjs.png" /></a>
+<a href="https://socket.io/"><img align="left" alt="Socket IO" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg"></a>
+<a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" width="30px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-mongodb.svg"></a>
+<a href="https://expressjs.com/"><img align="left" alt="Express" width="28px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/expressjs.png"></a>
+<a href="https://reactjs.org/"><img align="left" alt="React" width="28px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/reactjs.svg"></a>
+<a href="https://nodejs.org/en/"><img align="left" alt="NodeJS" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
 
 
 
