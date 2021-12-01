@@ -9,9 +9,9 @@
 ### &#x0003C;&#x0002F;&#x0003E; {Full Stack Web Developer}
 - At Present, I am learning full-stack web development. <br>
 - 2022 Goals: build some major projects and make a portfolio website. <br>
-- Hobbies: Coding & watching anime I guess. 
-&nbsp;
-### 🔗 Connect with me:
+- Hobbies: Coding & watching anime I guess.
+
+### 🔗 Connect with me
 
 [<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-globe-24 (1).png" />][website]
 [<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-facebook-30 (1).png" />][facebook]
@@ -22,9 +22,10 @@
 [<img align="left"  width="25px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/dev1.svg" />][dev]
 [<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-google.svg" />][google]
 
-&nbsp;
+<br/>
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
+
 <p>
 <a href="https://www.w3schools.com/html/"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 
@@ -50,12 +51,9 @@
 <a href="https://reactjs.org/"><img align="left" alt="React" width="28px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/reactjs.svg"></a>
 <a href="https://nodejs.org/en/"><img align="left" alt="NodeJS" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></p>
 
-&nbsp;
-&nbsp;
+<br/>
 
 ### ⚡ Github Stats
-
-
 <a href="https://github.com/adarsh-chakraborty?tab=repositories">
 <img src="https://github-readme-stats.vercel.app/api?username=adarsh-chakraborty&layout=compact&show_icons=true&title_color=00FFA5&bg_color=0D1117&icon_color=00FFA5&text_color=F8F7F9&hide_border=1"/>
 </a>
