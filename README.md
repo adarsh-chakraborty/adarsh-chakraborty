@@ -7,9 +7,9 @@
 <br />
 
 ### &#x0003C;&#x0002F;&#x0003E; {Full Stack Web Developer}
-- Currently, I am learning full stack web development. <br>
-- 2022 Goals: Make some major projects and build a portfolio website. <br>
-- Hobbies: Coding & watching anime i guess. <br>
+- At Present, I am learning full-stack web development. <br>
+- 2022 Goals: build some major projects and make a portfolio website. <br>
+- Hobbies: Coding & watching anime I guess. <br>
 
 ### Connect with me:
 
@@ -44,12 +44,12 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-
-<img align="left" alt="MongoDB" width="26px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-mongodb.svg">
-<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
-<img align="left" alt="React" width="26px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/reactjs.svg">
-<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png">
+<img align="left" alt="Socket IO" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg">
+<img align="left" alt="MongoDB" width="30px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-mongodb.svg">
+<img align="left" alt="Express" width="28px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/expressjs.png">
+<img align="left" alt="React" width="28px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/reactjs.svg">
+<img align="left" alt="NodeJS" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
 
 
