@@ -1,12 +1,14 @@
+<h1 align="center"> Adarsh Chakraborty</h1>
+<p align="center" float="left">
+<img align="left" src="https://komarev.com/ghpvc/?username=adarsh-chakraborty&label=Profile%20views&color=009127" alt="Adarsh Chakraborty"/>
+<img align="right" src="https://img.shields.io/github/followers/adarsh-chakraborty?color=009127&label=Followers" alt="Adarsh Chakraborty" /> 
+</p>
 
-
-### Hi there, I'm Adarsh 👋
-![](https://komarev.com/ghpvc/?username=adarsh-chakraborty)
+<br />
 
 ### &#x0003C;&#x0002F;&#x0003E; {Full Stack Web Developer}
-
 - Currently, I am learning full stack web development. <br>
-- 2021 Goals: Learn React and work on some personal projects. <br>
+- 2022 Goals: Make some major projects and build a portfolio website. <br>
 - Hobbies: Coding & watching anime i guess. <br>
 
 ### Connect with me:
@@ -23,8 +25,6 @@
 <br />
 
 ### Languages and Tools:
-
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -47,22 +47,28 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-mongodb.svg">
-
+<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
+<img align="left" alt="React" width="26px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/reactjs.svg">
 <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
-<img align="left" alt="React" width="26px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-react-16.png">
 
-<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
 
 <br />
 <br />
 
 ### Github Stats
 
-<img alt="Adarsh Chakraborty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adarsh-chakraborty&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
-<br />
-<img alt="Adarsh Chakraborty's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=adarsh-chakraborty&theme=dark" />
 
+<a href="https://github.com/adarsh-chakraborty?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api?username=adarsh-chakraborty&layout=compact&show_icons=true&title_color=00FFA5&bg_color=0D1117&icon_color=00FFA5&text_color=F8F7F9&hide_border=1"/>
+</a>
+
+<br />
+
+<img alt="Adarsh Chakraborty's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=adarsh-chakraborty&theme=green_nur&fire=00FFA5" />
+
+
+  
 [website]: http://adarsh.gq
 [facebook]: https://www.facebook.com/adarshwastaken/
 [twitter]: https://twitter.com/adarshgq
