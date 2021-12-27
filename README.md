@@ -15,7 +15,6 @@
 
 [<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-globe-24 (1).png" />][website]
 [<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-facebook-30 (1).png" />][facebook]
-[<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-youtube-30 (1).png" />][youtube]
 [<img align="left" width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-twitter-48 (1).png" />][twitter]
 [<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-linkedin-48.png" />][linkedin]
 [<img align="left"  width="22px" src="https://github.com/adarsh-chakraborty/adarsh-chakraborty/blob/main/assets/icons8-instagram-48.png" />][instagram]
@@ -67,7 +66,6 @@
 [website]: http://adarsh.gq
 [facebook]: https://www.facebook.com/adarshwastaken/
 [twitter]: https://twitter.com/adarshgq
-[youtube]: https://www.youtube.com/channel/UCc4iho_f399pqiDD7N6gU2g
 [instagram]: https://instagram.com/adarshchakraborty
 [linkedin]: https://linkedin.com/in/adarsh-chakraborty
 [google]: https://www.google.com/search?q=Adarsh+Chakraborty&stick=H4sIAAAAAAAAAOOwesRoyi3w8sc9YSmdSWtOXmNU4-IJSC0qzs8LTk0sSs4QEuNic80rySypFOKR4uLiyEoPj_QJM_bhWcQq5JiSWFScoeCckZhdlJiUX1RSCQCCC8p1TwAAAA&sa=X&ved=2ahUKEwjTiLrKgqvzAhXEmeYKHYypAvgQnJoFegQIHRAG
