@@ -54,13 +54,14 @@
 
 ### ⚡ Github Stats
 <a href="https://github.com/adarsh-chakraborty?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api?username=adarsh-chakraborty&layout=compact&show_icons=true&title_color=00FFA5&bg_color=0D1117&icon_color=00FFA5&text_color=F8F7F9&hide_border=1"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adarsh-chakraborty&layout=compact&show_icons=true&title_color=00FFA5&bg_color=0D1117&icon_color=00FFA5&text_color=F8F7F9&hide_border=1&count_private=true"/>
 </a>
 
 &nbsp;
 
+<a href="https://github.com/adarsh-chakraborty?tab=repositories">
 <img alt="Adarsh Chakraborty's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=adarsh-chakraborty&theme=green_nur&fire=00FFA5" />
-
+</a>
 
   
 [website]: http://adarsh.gq
