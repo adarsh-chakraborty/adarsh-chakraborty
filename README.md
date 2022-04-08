@@ -8,8 +8,12 @@
 
 ### &#x0003C;&#x0002F;&#x0003E; {Full Stack Web Developer}
 - At Present, I am learning full-stack web development. <br>
-- 2022 Goals: build some major projects and make a portfolio website. <br>
-- Hobbies: Coding & watching anime I guess.
+- 2022 Goals: <br/>
+   - [x] build some projects in MERN stack.
+   - [x] make a portfolio website.
+   - [ ] Learn Machine Learning.
+  
+- My Hobbies: Coding & watching anime I guess.
 
 ### 🔗 Connect with me
 
