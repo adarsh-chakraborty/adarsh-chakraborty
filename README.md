@@ -11,7 +11,7 @@
 - 2022 Goals: <br/>
    - [x] build some projects in MERN stack.
    - [x] make a portfolio website.
-   - [ ] Learn Machine Learning.
+   - [ ] Getting an internship.
   
 - My Hobbies: Coding & watching anime I guess.
 
