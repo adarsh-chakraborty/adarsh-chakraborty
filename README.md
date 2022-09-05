@@ -68,7 +68,7 @@
 </a>
 
   
-[website]: http://adarsh.gq
+[website]: https://adarsh-chakraborty.web.app
 [facebook]: https://www.facebook.com/adarshwastaken/
 [twitter]: https://twitter.com/adarshgq
 [instagram]: https://instagram.com/adarshchakraborty
