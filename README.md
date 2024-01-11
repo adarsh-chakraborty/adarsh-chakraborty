@@ -11,7 +11,10 @@
 - 2022 Goals: <br/>
    - [x] build some projects in MERN stack.
    - [x] make a portfolio website.
-   - [ ] getting an internship.
+   - [x] getting an internship. (2024)
+
+- 2024 Goals:
+   - [ ] Survive
   
 - My Hobbies: Coding & watching anime I guess.
 
